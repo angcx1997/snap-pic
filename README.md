@@ -11,6 +11,7 @@ Manual control is provided for user to adjust their desired position.
 
 *\*This is a simple project with no control involved.*
 
+![Image of Robotic Arm](https://github.com/angcx1997/snap-pic/blob/main/img/5dof_robot.PNG)
 
 ## Functionality
 Motion
@@ -20,3 +21,5 @@ Motion
 Camera Self-Positioning
 - Cascade classifier is used to detect human faces in the image captured by IP camera
 - The camera will then self calibrated until the camera is centered at the midpoint of human faces
+
+![Image of workflow](https://github.com/angcx1997/snap-pic/blob/main/img/workflow.PNG)
