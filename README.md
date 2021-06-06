@@ -1,8 +1,3 @@
----
-title: 5-DOF_RoboticArm
-tags: []
----
-
 # Snap-Pic
 
 A 5 dof robotic arm functions as a self-calibrated Wefie robotic arm which would detect the centre position of a group and position itself to capture everyone in the group.
